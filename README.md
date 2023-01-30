@@ -1,16 +1,45 @@
-### Hi there 👋
+![Junior software developer | Front-end](https://raw.githubusercontent.com/Bryanr2916/Bryanr2916/main/githubBanner.png)
 
-<!--
-**Bryanr2916/Bryanr2916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, my name is Bryan Rodríguez
+#### Junior software developer | Front-end
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer with knowledge about the technologies and tools for creating web sites and web applications. I am looking to put into practice and expand my knowledge in a junior developer role.
+
+## 📌Skills
+
+Hard skills:
+
+📌HTML | CSS | JavaScript
+
+📌Angualar | TypeScript 
+
+📌React | JSX 
+
+📌Bootstrap | Material Design | LESS
+
+📌API Rest | GraphQL 
+
+📌Git | GitHub
+
+Soft skills:
+
+📌Critical thinking
+
+📌Self-taught
+
+📌Curiosity
+
+📌Adaptability
+
+📌Organization 
+
+📌Commitment
+
+Contact:
+
+📱 (+506) 86641188 
+
+📧 bryanr2916@gmail.com
+
+🌐LinkedIn: [bryan-rodriguez-hidalgo](https://www.linkedin.com/in/bryan-rodriguez-hidalgo/)
