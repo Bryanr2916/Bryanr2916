@@ -1,10 +1,10 @@
 ![Junior software developer | Front-end](https://raw.githubusercontent.com/Bryanr2916/Bryanr2916/main/githubBanner.png)
 
 # Hi there 👋, my name is Bryan Rodríguez
-#### Junior software developer | Front-end
+#### Software developer | Front-end
 
 
-I am a software developer with knowledge about the technologies and tools for creating web sites and web applications. I am looking to put into practice and expand my knowledge in a junior developer role.
+I am a software developer currently working in front-end development, with experience creating websites and web applications using modern technologies and tools. I am continuously expanding my skills through both professional projects and independent work.
 
 ## 📌Skills
 
