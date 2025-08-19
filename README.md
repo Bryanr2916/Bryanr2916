@@ -1,4 +1,4 @@
-![Junior software developer | Front-end](https://raw.githubusercontent.com/Bryanr2916/Bryanr2916/main/githubBanner.png)
+![Junior software developer | Front-end](https://raw.githubusercontent.com/Bryanr2916/Bryanr2916/main/banner_image.jpeg)
 
 # Hi there 👋, my name is Bryan Rodríguez
 #### Software developer | Front-end
